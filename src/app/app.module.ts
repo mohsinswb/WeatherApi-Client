@@ -1,16 +1,37 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import {HttpClientModule} from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import {MatPaginatorModule} from '@angular/material/paginator';
+import { TeacherCardComponent } from './teacher-card/teacher-card.component';
+// import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule} from '@angular/material/card';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatButtonModule } from '@angular/material/button';
+import { ImageChangePipe } from './image-change.pipe';
+import { TogPipe } from './core/tog.pipe';
+// import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TeacherCardComponent,
+    ImageChangePipe,
+    TogPipe
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    BrowserAnimationsModule,
+    MatToolbarModule,
+    MatPaginatorModule,
+    MatCardModule,
+    MatButtonModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
