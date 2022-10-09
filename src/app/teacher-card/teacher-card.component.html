@@ -1,27 +1,11 @@
-    
-  <div class="content" >
-    <div fxLayout="row wrap" fxLayoutGap="16px grid">
-        <div fxFlex="25%" fxFlex.xs="100%" fxFlex.sm="33%" *ngFor="let t of teachers">
+<div *ngFor="let t of teachers" class="aio-contributor">
+  <div class="contributor-card">
+  <mat-card class="card-front">
 
-
-    <mat-card class="mat-elevation-z4" style="margin-bottom: 10px">
-      <mat-card-header>
-        <mat-card-title>{{t.Name| uppercase}}</mat-card-title>
-      </mat-card-header>
-      <img style ="    width: 159px;
-      height: 140px;
-      border: 2px solid white;
-      border-radius: 51%;"  mat-card-image [src]="t.Image |imageChange">
-      <!-- <mat-card-content>
-        <p>
-          A computer teacher is an educator who teaches others computer literacy.
-        </p>
-      </mat-card-content>
-      <mat-card-actions>
-        <button mat-button>LIKE</button>
-        <button mat-button>SHARE</button>
-      </mat-card-actions> -->
-    </mat-card>
+      <h3>{{t.Name| uppercase}}</h3>
+    <div class="cont-image">
+    <img mat-card-image [src]="t.Image |imageChange" class="cont-image1">
   </div>
-</div>
+  </mat-card>
+</div> 
 </div>

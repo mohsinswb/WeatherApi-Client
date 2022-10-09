@@ -12,7 +12,6 @@ import { MatCardModule} from '@angular/material/card';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { ImageChangePipe } from './image-change.pipe';
-import { TogPipe } from './core/tog.pipe';
 // import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
@@ -20,7 +19,6 @@ import { TogPipe } from './core/tog.pipe';
     AppComponent,
     TeacherCardComponent,
     ImageChangePipe,
-    TogPipe
   ],
   imports: [
     BrowserModule,

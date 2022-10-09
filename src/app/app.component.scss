@@ -1,8 +1,28 @@
-// .example-spacer {
-//     flex: 1 1 auto;
-//   }
-  
-table {
-    width: 100%;
+
+  @media handheld and (max-width:480px),screen and (max-width:480px), screen and (max-width:900px) {
+    .grid-fluid{
+      width: auto;
+      margin: 32px auto;
+    }
+
   }
-  
+  @media handheld and (max-width:480px),screen and (max-width:480px), screen and (max-width:900px){
+    .grid-fluid{
+      margin-left: 20px;
+      margin-right: 20px;
+      float: none;
+      display: block;
+      width: auto;
+      margin: 32px auto;
+    }
+  }
+
+  .main-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.grid-fluid{
+  margin: 32px auto !important;
+}

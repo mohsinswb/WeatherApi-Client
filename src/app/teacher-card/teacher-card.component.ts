@@ -22,5 +22,8 @@ export class TeacherCardComponent implements OnInit {
       // })
     })
   }
-
+user:any={
+  type:'Admin',
+  name:'Ali'
+}
 }
