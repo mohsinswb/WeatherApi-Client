@@ -1,0 +1,1565 @@
+// containers
+.view-container {
+  padding: 32px 24px 35px 24px;
+  height: calc(100vh - (67px));
+}
+
+.section-container {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+// text related
+.text-center {
+text-align: center !important;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+}
+
+// dimensions related
+.full-width {
+  width: 100% !important;
+}
+
+.full-height {
+  height: 100% !important;
+}
+
+.full-view-height {
+  height: 100vh !important;
+}
+
+.half-width {
+  width: 50% !important;
+}
+
+.height-12 {
+  height: 12px !important;
+}
+
+// margins
+.mtb-30 {
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+.mtb-24 {
+  margin-top: 24px !important;
+  margin-bottom: 24px !important;
+}
+.m-0 {
+  margin: 0 !important;
+}
+
+.mt-4 {
+  margin-top: 4px !important;
+}
+
+.mt-10 {
+  margin-top: 10px !important;
+}
+
+.mt-12 {
+  margin-top: 12px !important;
+}
+
+.mt-18 {
+  margin-top: 18px !important;
+}
+.mt-21 {
+margin-top: 21px !important;
+}
+.mt-24 {
+  margin-top: 24px !important;
+}
+
+.mt-27 {
+  margin-top: 27px !important;
+}
+
+.mt-28 {
+  margin-top: 28px !important;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-32 {
+  margin-top: 32px;
+}
+
+.mt-33 {
+  margin-top: 33px;
+}
+
+.mt-36 {
+  margin-top: 36px;
+}
+.mt-39 {
+  margin-top: 39px !important;
+}
+.mt-40 {
+margin-top: 40px !important;
+}
+.mt-45 {
+  margin-top: 45px !important;
+}
+.mt-48 {
+  margin-top: 48px !important;
+}
+.mt-55{
+margin-top: 55px !important;
+}
+
+.mt-60 {
+  margin-top: 60px;
+}
+.mr-0 {
+margin-right: 0px !important;
+}
+.mr-16 {
+  margin-right: 24px !important;
+}
+
+.mr-24 {
+  margin-right: 24px !important;
+}
+
+.mr-30 {
+  margin-right: 30px !important;
+}
+
+.mr-15 {
+  margin-right: 15px;
+}
+.mr-10 {
+  margin-right: 10spx;
+}
+
+.ml-4 {
+  margin-left: 4px !important;
+}
+
+.ml-5 {
+  margin-left: 5px !important;
+}
+
+.ml-8 {
+  margin-left: 8px !important;
+}
+
+.ml-10 {
+margin-left: 10px !important;
+}
+
+.ml-12 {
+  margin-left: 12px;
+}
+
+.ml-70 {
+  margin-left: 70px !important;
+}
+
+.ml-25 {
+  margin-left: 25px !important;
+}
+
+.ml-28 {
+  margin-left: 28px !important;
+}
+
+.ml-16 {
+  margin-left: 16px;
+}
+
+.mb-0 {
+  margin-bottom: 0px !important;
+}
+
+.mt-14 {
+  margin-top: 14px;
+}
+
+.mt-15 {
+  margin-top: 15px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+.mt-100{
+  margin-top: 100px;
+}
+.mb-auto{
+  margin-bottom: auto;
+}
+.mb-2 {
+  margin-bottom: 2px !important;
+}
+
+.mb-4 {
+  margin-bottom: 4px !important;
+}
+
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+
+.mb-8 {
+  margin-bottom: 8px !important;
+}
+
+.mb-7 {
+  margin-bottom: 7px !important;
+}
+
+.mb-9 {
+  margin-bottom: 9px !important;
+}
+
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.mb-12 {
+  margin-bottom: 12px !important;
+}
+
+.mb-13 {
+  margin-bottom: 13px !important;
+}
+
+.mb-14 {
+  margin-bottom: 14px !important;
+}
+
+.mb-15 {
+  margin-bottom: 15px !important;
+}
+
+.mb-16 {
+  margin-bottom: 16px !important;
+}
+
+.mb-17 {
+  margin-bottom: 17px !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+
+.mb-24 {
+  margin-bottom: 24px !important;
+}
+
+.mb-26 {
+  margin-bottom: 26px !important;
+}
+.mb-27 {
+  margin-bottom: 27px !important;
+}
+
+.mb-28 {
+  margin-bottom: 28px !important;
+}
+
+.mb-30 {
+  margin-bottom: 30px !important;
+}
+
+.mb-32 {
+  margin-bottom: 32px !important;
+}
+.mb-35 {
+  margin-bottom: 35px !important;
+}
+.mb-36 {
+  margin-bottom: 36px !important;
+}
+
+.mb-37 {
+  margin-bottom: 37px !important;
+}
+
+.mb-34 {
+  margin-bottom: 34px !important;
+}
+
+.mb-36 {
+  margin-bottom: 36px !important;
+}
+
+.mb-40 {
+  margin-bottom: 40px !important;
+}
+
+.mb-42 {
+  margin-bottom: 42px !important;
+}
+
+.mb-46 {
+  margin-bottom: 46px !important;
+}
+
+.mb-55 {
+  margin-bottom: 55px !important;
+}
+
+.mb-64 {
+margin-bottom: 55px !important;
+}
+
+.mt-25{
+  margin-top: 25px;
+}
+.mb-90 {
+  margin-bottom: 90px !important;
+}
+
+.mb--35 {
+  margin-bottom: -35px !important;
+}
+.bottom-32{
+  bottom: 32px;
+}
+
+.ml-24 {
+  margin-left: 24px;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+.mt-auto {
+  margin-top: auto !important;
+}
+.mr-auto {
+  margin-right: auto;
+}
+
+.mlr-24 {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.mlr-9 {
+margin-left: 9px !important;
+margin-right: 9px !important;
+}
+//paddings
+.pt-28 {
+  padding-top: 28px;
+}
+.pt-32 {
+  padding-top: 32px;
+}
+.pt-36 {
+  padding-top: 36px;
+}
+.pt-44 {
+  padding-top: 44px;
+}
+.pt-40 {
+  padding-top: 40px;
+}
+.pt-48 {
+  padding-top: 48px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+.pt-60 {
+  padding-top: 60px;
+}
+
+.pt-24 {
+  padding-top: 24px;
+}
+.pt-22 {
+  padding-top: 22px;
+}
+
+.pt-26 {
+  padding-top: 26px;
+}
+.pt-27 {
+  padding-top: 27px;
+}
+
+.pt-14 {
+  padding-top: 14px;
+}
+.pt-16 {
+  padding-top: 16px;
+}
+
+.pt-10 {
+  padding-top: 10px;
+}
+.pt-100{
+  padding-top: 100px;
+}
+.pb-150{
+  padding-bottom: 150px;
+}
+
+.pt-12 {
+  padding-top: 12px;
+}
+
+.pt-16 {
+padding-top: 16px;
+}
+
+.pt-8  {
+  padding-top: 8px;
+}
+.pt-4  {
+  padding-top: 4px;
+}
+.pb-8  {
+  padding-bottom: 8px;
+}
+
+.pb-3  {
+  padding-bottom: 3px;
+}
+
+
+.pb-10  {
+  padding-bottom: 10px;
+}
+.pb-7{
+  padding-bottom: 12px;
+}
+
+.pb-12 {
+  padding-bottom: 12px;
+}
+
+.pb-13 {
+  padding-bottom: 13px;
+}
+
+.pb-16 {
+  padding-bottom: 16px;
+}
+
+.pb-16-imp {
+padding-bottom: 16px !important;
+}
+
+.pb-22 {
+  padding-bottom: 22px;
+}
+
+.pb-24 {
+  padding-bottom: 24px;
+}
+
+.pb-32 {
+  padding-bottom: 32px;
+}
+
+.pb-40 {
+padding-bottom: 40px;
+}
+
+.pb-50 {
+padding-bottom: 50px;
+}
+
+.pb-83 {
+  padding-bottom: 83px;
+}
+
+.pb-90 {
+  padding-bottom: 90px;
+}
+
+.pad-4  {
+  padding: 4px;
+}
+.p-0 {
+  padding: 0 !important;
+}
+
+.pr-7 {
+  padding-right: 7px;
+}
+
+.pr-10 {
+  padding-right: 10px;
+}
+
+
+
+.pr-24 {
+  padding-right: 24px;
+}
+
+.pr-20 {
+padding-right: 20px;
+}
+
+.pr-12 {
+padding-right: 12px;
+}
+.pr-16 {
+  padding-right: 16px;
+}
+.pl-0 {
+  padding-left: 0 !important;
+}
+.pl-4 {
+  padding-left: 4px;
+}
+.pl-7 {
+  padding-left: 7px;
+}
+.pl-12 {
+  padding-left: 12px;
+}
+.pl-18 {
+  padding-left: 18px;
+}
+
+.plr-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.plr-16 {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.plr-12 {
+  padding-left:12px;
+  padding-right:12px;
+}
+
+.plr-18 {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.plr-24 {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.pl-24 {
+  padding-left: 24px;
+}
+
+.pl-30 {
+  padding-left: 30px;
+}
+.plr-32 {
+padding: 0 32px;
+}
+.plr-50{
+  padding: 0 50px;
+}
+.p-24 {
+  padding: 24px;
+}
+
+.mbt-12 {
+  margin-bottom: 12px !important;
+  margin-top: 12px !important;
+}
+
+.mbt-16 {
+  margin-bottom: 16px !important;
+  margin-top: 16px !important;
+}
+
+.min-ht-302 {
+height: unset !important;
+min-height: 302px;
+}
+
+
+.left-24 {
+  left: 24px;
+}
+
+.min-height-60 {
+  min-height: 60px;
+}
+
+// display related
+.display-flex {
+display: flex !important;
+}
+
+.display-none, no-display {
+  display: none !important;
+}
+
+.display-inline {
+  display: inline !important;
+}
+
+.display-block {
+  display: block !important;
+}
+.display-inlineblock {
+  display: inline-block !important;
+}
+.float-left {
+  float: left !important;
+}
+.float-right {
+float: right !important;
+}
+.min-width-fit-content{
+min-width: fit-content;
+}
+// felexbox related
+.flex-direction-column {
+flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-flex-start {
+  align-items: flex-start;
+}
+
+.justify-content-space-between {
+  justify-content: space-between;
+}
+
+.justify-content-space-around {
+  justify-content: space-around;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+.centralized{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.flex-1 {
+  flex: 1;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.font-size-6 {
+  font-size: $size-6;
+}
+
+.font-size-8 {
+  font-size: $size-8;
+}
+
+.font-size-10 {
+  font-size: $size-10;
+}
+
+.font-size-12 {
+  font-size: $size-12;
+}
+
+.font-size-14 {
+  font-size: $size-14 !important;
+}
+
+.font-size-16 {
+  font-size: $size-16;
+}
+
+.font-size-17 {
+  font-size: $size-17;
+}
+
+.font-size-18 {
+  font-size: $size-18;
+}
+
+.font-size-19 {
+  font-size: $size-19;
+}
+
+.font-size-20 {
+  font-size: $size-20;
+}
+
+.font-size-21 {
+  font-size: $size-21;
+}
+
+.font-size-22 {
+  font-size: $size-22;
+}
+
+.font-size-23 {
+  font-size: $size-23;
+}
+
+.font-size-24 {
+  font-size: $size-24;
+}
+
+.font-size-25 {
+  font-size: $size-25;
+}
+
+.font-size-26 {
+  font-size: $size-26;
+}
+
+.font-size-27 {
+  font-size: $size-27;
+}
+
+.font-size-28 {
+  font-size: $size-28;
+}
+
+.font-size-29 {
+  font-size: $size-29;
+}
+
+.font-size-30 {
+  font-size: $size-30;
+}
+
+.font-size-31 {
+  font-size: $size-31;
+}
+
+.font-size-32 {
+  font-size: $size-32;
+}
+
+.font-size-33 {
+  font-size: $size-33;
+}
+
+.font-size-34 {
+  font-size: $size-34;
+}
+
+.font-size-35 {
+  font-size: $size-35;
+}
+
+.font-size-36 {
+  font-size: $size-36;
+}
+
+.font-size-52 {
+  font-size: $size-52;
+}
+
+.font-size-60 {
+  font-size: $size-60;
+}
+
+.line-height-6 {
+  line-height: $size-6;
+}
+
+.line-height-8 {
+  line-height: $size-8;
+}
+
+.line-height-10 {
+  line-height: $size-10;
+}
+
+.line-height-12 {
+  line-height: $size-12;
+}
+
+.line-height-14 {
+  line-height: $size-14;
+}
+
+.line-height-16 {
+  line-height: $size-16;
+}
+
+.line-height-17 {
+  line-height: $size-17;
+}
+
+.line-height-18 {
+  line-height: $size-18;
+}
+
+.line-height-19 {
+  line-height: $size-19;
+}
+
+.line-height-20 {
+  line-height: $size-20;
+}
+
+.line-height-21 {
+  line-height: $size-21;
+}
+
+.line-height-22 {
+  line-height: $size-22;
+}
+
+.line-height-23 {
+  line-height: $size-23;
+}
+
+.line-height-24 {
+  line-height: $size-24;
+}
+
+.line-height-25 {
+  line-height: $size-25;
+}
+
+.line-height-26 {
+  line-height: $size-26;
+}
+
+.line-height-27 {
+  line-height: $size-27;
+}
+
+.line-height-28 {
+  line-height: $size-28;
+}
+
+.line-height-29 {
+  line-height: $size-29;
+}
+
+.line-height-30 {
+  line-height: $size-30;
+}
+
+.line-height-31 {
+  line-height: $size-31;
+}
+
+.line-height-32 {
+  line-height: $size-32;
+}
+
+.line-height-33 {
+  line-height: $size-33;
+}
+
+.line-height-34 {
+  line-height: $size-34;
+}
+
+.line-height-35 {
+  line-height: $size-35;
+}
+
+.line-height-36 {
+  line-height: $size-36;
+}
+
+.primaryButtonSmall {
+  width: 210px;
+  margin: 0 auto;
+}
+
+.h-44 {
+  height: 6.4vh !important;
+}
+
+.h-41 {
+  height: 41px;
+}
+
+
+.h-60 {
+  height: 60px !important;
+}
+
+.h-auto{
+  height: auto !important;
+}
+// font related
+.font-bold {
+  font-weight: 700 !important;
+  font-family: "CircularXX" !important;
+}
+
+.font-normal {
+  font-weight: normal !important;
+}
+
+// dividers
+.divider-blue {
+  height: 1px;
+  background-color: $color-mid-white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.divider-dark-white {
+  height: 1px;
+  background-color: $color-dark-white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.divider-near-white {
+  height: 1px;
+  background-color: $color-near-white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.divider-mid-white {
+  height: 1px;
+  background-color: $color-mid-white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+// positions
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.position-bottom-fixed {
+position: fixed;
+bottom: 35px;
+left: 0;
+width: 100%;
+padding: 0;
+}
+
+.absolute-center-x {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.z-index-1 {
+  z-index: 1;
+}
+
+.z-index-2 {
+  z-index: 2;
+}
+
+.z-index-3 {
+  z-index: 3;
+}
+
+.overflow-auto {
+  overflow: auto;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+div.footer-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+}
+
+div.bottom-button-container {
+position: fixed;
+left: 0;
+right: 0;
+bottom: 32px;
+width: 100%;
+}
+
+
+// letter-spacing
+.ls-05 {
+  letter-spacing: 0.5px;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-lowercase {
+  text-transform: lowercase;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+.font-circularTT {
+  font-family: CircularXX TT !important;
+}
+
+.font-circular {
+  font-family: CircularXX !important;
+}
+
+.opacity-5{
+  opacity: 0.5;
+}
+
+.border-radius-8{
+  border-radius: 8px;
+}
+
+.w-125{
+  width: 125px;
+}
+.w-110{
+  width: 110px;
+}
+.w-85 {
+  width: 85px;
+}
+.w-22{
+  width: 22px;
+}
+
+.letter-spac-0-5{
+  letter-spacing: 0.5px;
+}
+
+.white-space-pre-wrap {
+white-space: pre-wrap;
+}
+
+//------------------------------- Theme Options ----------------------------------//
+
+.violet-theme {
+.color-deep-blue {
+  color: #581845;
+}
+
+.background-deep-blue {
+  background-color: #581845;
+}
+}
+
+
+.red-theme {
+.color-deep-blue {
+  color: #B71C1C;
+}
+
+.background-deep-blue {
+  background-color: #B71C1C;
+}
+}
+.color-mid-grey{
+color: $color-lighter-grey;
+}
+.deep-purple-theme {
+.color-deep-blue {
+  color: #311B92;
+}
+
+.background-deep-blue {
+  background-color: #311B92;
+}
+}
+
+.box-sizing-border-box {
+  box-sizing: border-box;
+}
+
+.image-payactiv-card {
+height: 26px !important;
+width: 46px !important;
+padding: 5px;
+// background-color: #FF766E; //colorCode from Settings
+}
+img.image-payactiv-card-selector {
+  height: 36px !important;
+  width: 56px !important;
+}
+
+.image-box-shadow {
+box-shadow: 0px 5px 10px rgb(0 0 0 / 15%);
+border-radius: 4px;
+}
+
+.top-sheet-container {
+background: #000 !important;
+opacity: 0.5 !important;
+}
+
+.disable-control {
+  opacity: 0.5 !important;
+  pointer-events:none !important;
+}
+
+.disable-control-full-opacity {
+pointer-events: none !important;
+}
+
+.vertical-align-super {
+vertical-align: super;
+}
+
+.margin-top-auto {
+  margin-top: auto;
+}
+
+.margin-auto{
+  margin: auto;
+}
+//////////////////////////////////////////////////
+//             CSS FOR BIGGER SCREENS           //
+//////////////////////////////////////////////////
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+.apply-payactiv-card {
+  height: 310px !important;
+  max-height: 350px !important;
+}
+
+.ion-slide {
+  width: 420px !important;
+  height: 150px !important;
+}
+
+#card-bg {
+  height: 50vh !important;
+  min-height: 375px !important;
+  max-height: 450px !important;
+}
+
+.flip-card {
+  height: 280px !important;
+}
+
+div.relativeImage {
+  height: 310px !important;
+  max-height: 350px;
+  background-size: 80% !important;
+  background-position: 40px 24px !important;
+}
+
+div.relativeImage div.hideOnScrollDiv {
+  padding: 25px 46px 0 46px !important;
+  min-height: 250px !important;
+}
+
+.flip-card-front, .flip-card-back {
+  width: 100% !important;
+}
+
+div.app-services-dashboard {
+  padding: 0px 0px 0px !important;
+  height: 100% !important;
+  min-height: 90vh !important;
+}
+
+.flip-card-inner {
+  width: 90% !important;
+  height: 80% !important;
+}
+
+.flipper {
+  top: -25px !important;
+  right: 25px !important;
+}
+
+.phoneNumber-component .phone-mat-form-field .mat-form-field-flex {
+  height: 80px !important;
+}
+}
+@media screen and (min-width: 1025px) {
+
+
+  $myWidth:calc(var(--vw)* 1);       // example 425px;
+
+  $myWidth-Xlrg:calc(var(--vw)*0.88); // 90% of width == 382
+  $myWidth-lrg:calc(var(--vw)*0.80); // 80% of width == 340
+  $myWidth-Xmed:calc(var(--vw)*0.75); // 75% of width == 318
+  $myWidth-medi:calc(var(--vw)*0.70);  // 70% of width == 298
+  $myWidth-med:calc(var(--vw)*0.60); // 60% of width == 255
+  $myWidth-sm:calc(var(--vw)*0.50);  // 50% of width == 212
+  $myWidth-smxL:calc(var(--vw)*0.48);  // 50% of width == 205
+  $myWidth-smL:calc(var(--vw)*0.45);  // 50% of width == 192
+  $myWidth-xsm:calc(var(--vw)*0.40); // 40% of width == 170
+  $myWidth-XXsm:calc(var(--vw)*0.3); // 40% of width == 128
+
+
+  $myHeight:100vh;
+
+
+body {
+  overflow: hidden;
+  background: rgb(0 0 0 / 15%);
+
+}
+  #responsive-grid{
+    width: 100%;
+    max-width: $myWidth;
+    margin: 0px auto 0px auto;
+    //border: #999 2px solid;
+ //   box-shadow: 2px 2px 10px #666;
+    position: relative;
+    height: $myHeight;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: #fff;
+    border-radius: 10px;
+  }
+  div.calender-container {
+      width: 100% !important;
+  }
+  div.balck-overlay.black-mask {
+      width: 100%  !important;
+  }
+  .apply-payactiv-card {
+      height: $myWidth-Xmed  !important;
+     // max-height: $myWidth-lrg !important;
+    }
+    div.app-services-dashboard {
+      width: 100%  !important;
+    }
+    #card-bg{
+      width: 100% !important;
+    }
+    #card-bg-small{
+      width: 100% !important;
+    }
+    .promo-container {
+      width: 100% !important;
+    }
+
+    div.calender-container {
+      width: 100% !important;
+  }
+  div.balck-overlay.black-mask {
+      width: 100% !important;
+  }
+  div.card-container {
+      max-width: 100% !important;
+  }
+  .divider-image {
+      margin-left: 43.46%  !important;
+      width: 12.8%  !important;
+    }
+    .forground-image{
+      left: 50%  !important;
+  }
+  .character-img {
+      width: 74.9% !important;
+    }
+    .mdlBody{
+        img{
+      width: 21vw;
+    }
+  }
+  div.app-bar-chart {
+      max-width: 100%;
+  }
+  div.app-bar-chart div.bar-chart-container{
+      width: calc(var(--vw)*0.06);
+  }
+  div.app-bar-chart.card-dashboard {
+      div.bar-chart-container.card-dashboard-chart-container {
+          div.average-line {
+          span.text-container {
+              width: calc(var(--vw) * .17);
+          }
+        }
+     }
+  }
+  div.app-bar-chart div.bar-chart-container div.bar-item.weekly-card-balance-bar-item div.bar{
+      width: calc(var(--vw) * .045) !important;
+      min-width: 25px;
+      max-width: 40px;
+  }
+  div.app-bar-chart {
+      max-width: 100%;
+  }
+  div.account-img {
+      img {
+        width: 9.3vw;
+        height: 8vw;
+      }
+    }
+    div.account-card {
+      width: 100%;
+    }
+    div.payactiv-card-image {
+      height: 46.2%;
+      width: 71%;
+    }
+
+    div.card-container {
+       min-width: 90%;
+    }
+    div.scanned-card {
+      img {
+          max-width: 82%;
+      }
+  }
+
+  .ion-slide {
+      width: $myWidth-Xlrg !important;
+      height: $myWidth-XXsm !important;
+  }
+  #card-bg{
+
+  height: 40vh !important;
+  min-height: $myWidth-Xmed !important;
+  max-height: $myWidth-lrg !important;
+  }
+  // .flip-card {
+  //     // height: 190px !important;
+  // }
+  div.relativeImage{
+      height: $myWidth-smxL !important;
+      max-height: $myWidth-sm;
+      //background-size: 80% !important;
+      // background-position: 40px 24px !important;
+      &.notFlagged {
+          background-size: 83% !important;
+          background-position: 24px 26px;
+        }
+  }
+  div.relativeImage div.hideOnScrollDiv {
+      padding: 25px 26px 0 26px !important;
+      min-height: 180px !important;
+  }
+  .flip-card-front, .flip-card-back {
+      width: 95% !important;
+  }
+  .action-container .action-list .action {
+      margin-right: 7px !important;
+  }
+  .action-container
+  {
+      padding-left: 12px !important;
+      padding-right: 12px !important;
+      overflow: auto !important;
+  }
+  /* width */
+      ::-webkit-scrollbar {
+      width: 5px;
+      height: 5px;
+      }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      margin: 15px 0px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+      background: #888;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+      background: #555;
+}
+  div.footer-container {
+      position: sticky !important;
+      margin-bottom: -20px !important;
+      margin-top: 38px !important;
+  }
+  div.app-ewa {
+      overflow: visible !important;
+      padding-bottom: 0px !important;
+
+  }
+div.app-dashboard {
+      overflow: visible !important;
+      padding-bottom: 0px !important;
+
+  }
+
+  div.app-services-dashboard{
+      padding: 0px 0px 0px !important;
+      height: 100% !important;
+      min-height: 90vh !important;
+  }
+
+  #profile-component .main-profile-container {
+      padding-bottom: 0px !important;
+  }
+  div.chats-wrapper .chat-header{
+      position: sticky !important;
+  }
+  div.chats-wrapper.scrolling-main-wrapper .scrolling-content {
+      padding-top: 28px  !important;
+  }
+  .connecthome-wrapper .home-scrolling{
+      padding-top: 0px !important;
+      min-height: 80vh;
+      overflow-y: auto ;
+  }
+  .connecthome-wrapper .upper {
+      position: sticky !important;
+  }
+  .connecthome-wrapper {
+      overflow-x: visible !important;
+      overflow-y: visible !important;
+  }
+  // .flip-card-inner {
+  //     // width: 90% !important;
+  //     // height: 80% !important;
+  //   }
+  //   .flipper {
+  //     // top: -25px !important;
+  //     // right: 25px !important;
+  // }
+  .mat-bottom-sheet-container-medium {
+      min-width: $myWidth !important;
+      max-width: 430px !important;
+  }
+  .mat-bottom-sheet-container-large {
+      min-width: $myWidth !important;
+      max-width: 430px !important;
+  }
+  div.bottom-button-container-activate-physical-card-expiry {
+      position: sticky !important;
+    }
+    div.app-pay-a-friend {
+     .header {
+      // position: absolute !important;
+       max-width: $myWidth;
+
+      }
+    }
+    div.bottom-button-container-pin {
+      position: absolute !important;
+    }
+    div#mainInputFormFooter {
+      position: sticky !important;
+    }
+    div.default-primary-button {
+      position: absolute !important;
+    }
+    #header-area{
+      position: absolute !important;
+      min-height: $myWidth-sm !important;
+    }
+    .footerArea {
+      position: sticky !important;
+    }
+    img#bg-top{
+      position: absolute !important;
+    }
+
+  .success-bottom {
+      position: sticky !important;
+
+  }
+  .footer {
+      min-width: $myWidth !important;
+      position: absolute !important;
+  }
+  .leaving-app-component-container .card-container {
+      height: 210px;
+  }
+  .phoneNumber-component .phone-mat-form-field .mat-form-field-flex {
+      height: 80px !important;
+  }
+  div.image-container-height.cashpickupdetail {
+      height: 23vh !important;
+  }
+  #userNamePhoneNumber-Inputfield .userName-mat-form-field .mat-form-field-flex {
+      height: 85px!important;
+  }
+  div.app-card {
+      max-height: calc(100vh - (40px)) !important;
+      padding-bottom: 0px !important;
+  }
+  div.connect-into-container {
+      padding-bottom: 0px !important;
+  }
+  .page-content-without-header {
+      min-height: calc(100vh - 600px);
+  }
+  .connecthome-wrapper div.card-container div.card {
+      height: 140px !important;
+      margin-top: 10px !important;
+      margin-bottom: 10px !important;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+  }
+  #welcome-carousel-screen {
+      height: 90vh !important;
+    //  padding-bottom: 6vh;
+      overflow: hidden;
+  }
+  .autoload-container{
+      min-height: 90vh !important;
+  }
+  div.position-relative.image-container-height.referral, div.position-relative.image-container-height.billpay, div.position-relative.image-container-height.general-error {
+      min-height: 40vw !important;
+  }
+  .card {
+      height: calc(var(--vw) * .40) !important;
+  }
+  .main-Content {
+      margin-top: calc(var(--vw) * .70) !important;
+  }
+  .inner-container {
+      height: calc(var(--vw) * .50) !important;
+  }
+  #smart-save-spend-drawer {
+      width: $myWidth !important;
+  }
+  div#payactiv-form-template div.input-form-template {
+      margin: 0px !important;
+  }
+  div#payactiv-form-template .card-registration-container {
+      height: 66vh !important;
+  }
+  div.input-form-template {
+      margin: 0 0% !important;
+  }
+  div#scroll-modal-template.general-error {
+      height: 95vh !important;
+  }
+  div.position-relative.image-container-height.referral img.forground-image.general-error,
+  div.position-relative.image-container-height.billpay img.forground-image.general-error,
+  div.position-relative.image-container-height.general-error img.forground-image.general-error {
+      max-width: 75% !important;
+  }
+  .top-sheet-container + div {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+  }
+}

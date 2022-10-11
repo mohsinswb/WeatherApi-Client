@@ -31,7 +31,7 @@ import { LoginComponent } from './login/login.component';
     MatPaginatorModule,
     MatCardModule,
     MatButtonModule,
-    
+
   ],
   providers: [],
   bootstrap: [AppComponent]

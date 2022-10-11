@@ -1,0 +1,132 @@
+h1,
+.h1 {
+    font-family: Mulish !important;
+    font-size: 2.25rem !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    line-height: 2.25rem !important;
+}
+
+h2,
+.h2 {
+    font-family: Mulish !important;
+    font-size: 2rem !important;
+    line-height: 2.25rem !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+}
+
+h3,
+.h3 {
+    font-family: Mulish !important;
+    font-size: 1.75rem !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    line-height: 2rem !important;
+}
+
+h4,
+.h4 {
+    font-family: Mulish !important;
+    font-size: 1.5rem !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    line-height: 1.75rem !important;
+}
+
+h5,
+.h5 {
+    font-family: Mulish !important;
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+    line-height: 1.5rem !important;
+}
+
+h6,
+.h6 {
+    font-family: 'Mulish' !important;
+    font-size: 1rem !important;
+    line-height: 1.125rem !important;
+}
+
+.h7 {
+    font-family: Mulish !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.875rem !important;
+    line-height: 1.125rem !important;
+}
+
+.h8 {
+    font-family: Mulish !important;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.75rem !important;
+    line-height: 1rem !important;
+}
+
+.body-1 {
+    font-family: Mulish !important;
+    font-size: 1.125rem !important;
+    line-height: 1.5rem !important;
+}
+
+.body-2 {
+    font-family: Mulish !important;
+    font-size: 1rem !important;
+    line-height: 1.25rem !important;
+}
+
+.body-3 {
+    font-family: Mulish !important;
+    font-size: 0.875rem !important;
+    line-height: 1.125rem !important;
+}
+
+.body-4 {
+    font-family: Mulish !important;
+    font-size: 0.75rem !important;
+    line-height: 1rem !important;
+}
+
+.label-1 {
+    font-family: Mulish !important;
+    font-weight: 700;
+    font-size: 0.75rem !important;
+    line-height: 0.625rem !important;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.label-2 {
+    font-family: Mulish !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.875rem !important;
+    line-height: 1.0625rem !important;
+}
+
+.field-label-heading {
+    font-family: var(--theme-fontfamily-bold) !important;
+    font-style: normal;
+    color: var(--color-mid-grey);
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 12px !important;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    line-height: 15px !important;
+    display: block;
+}
+.text-striked {
+    text-decoration: line-through;
+}
+.mat-h6, .mat-typography h6 {
+    font-weight: 700;
+}
+.to-sentence-case {
+    text-transform: lowercase;
+}
+    .to-sentence-case:first-letter {
+    text-transform: uppercase;
+  }
