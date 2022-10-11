@@ -29,7 +29,7 @@ import { ImageChangePipe } from './image-change.pipe';
     MatPaginatorModule,
     MatCardModule,
     MatButtonModule,
-    
+
   ],
   providers: [],
   bootstrap: [AppComponent]

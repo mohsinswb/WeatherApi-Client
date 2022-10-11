@@ -1339,9 +1339,9 @@ body {
   min-height: $myWidth-Xmed !important;
   max-height: $myWidth-lrg !important;
   }
-  .flip-card {
-      // height: 190px !important;
-  }
+  // .flip-card {
+  //     // height: 190px !important;
+  // }
   div.relativeImage{
       height: $myWidth-smxL !important;
       max-height: $myWidth-sm;
@@ -1432,14 +1432,14 @@ div.app-dashboard {
       overflow-x: visible !important;
       overflow-y: visible !important;
   }
-  .flip-card-inner {
-      // width: 90% !important;
-      // height: 80% !important;
-    }
-    .flipper {
-      // top: -25px !important;
-      // right: 25px !important;
-  }
+  // .flip-card-inner {
+  //     // width: 90% !important;
+  //     // height: 80% !important;
+  //   }
+  //   .flipper {
+  //     // top: -25px !important;
+  //     // right: 25px !important;
+  // }
   .mat-bottom-sheet-container-medium {
       min-width: $myWidth !important;
       max-width: 430px !important;
