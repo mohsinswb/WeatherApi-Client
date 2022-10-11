@@ -12,6 +12,7 @@ import { MatCardModule} from '@angular/material/card';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { ImageChangePipe } from './image-change.pipe';
+import { LoginComponent } from './login/login.component';
 // import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
@@ -19,6 +20,7 @@ import { ImageChangePipe } from './image-change.pipe';
     AppComponent,
     TeacherCardComponent,
     ImageChangePipe,
+    LoginComponent,
   ],
   imports: [
     BrowserModule,
